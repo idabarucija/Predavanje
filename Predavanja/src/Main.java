@@ -40,10 +40,17 @@ public class Main {
             System.out.println("Ispis");
             broj1++;
         }
+        for (int i = 0; i < 9; i++) {
+            System.out.println(i);
+        }
+
+
+    }
+
         
 
     }
-}
+
 
 
 
